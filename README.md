@@ -1,4 +1,10 @@
 ## Hi there 👋
+Meu nome é Jaqueline e sou professora da PEI Francisco Cristiano Freitas de Lima; 
+Estou estudando através da plataforma Alura;
+Estou começando a aprender a linguagem JavaScript; 
+Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos.
+
+Para entrar em contato comigo mande um e-mail para jaquelinevsilva@prof.educacao.sp.gov.br
 
 <!--
 **jaquelinevsilva1993/jaquelinevsilva1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
